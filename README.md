@@ -2,7 +2,7 @@
 
 
 # Student Management System
-This repo includes the work, documentation and other relevant material for the Embedded IoT Task as outlined [here](https://github.com/Morad-T/University-Student-Management-System/blob/main/Task.pdf)
+This repo includes the work, documentation and other relevant material for the Embedded IoT Task as outlined [here](https://github.com/Morad-T/C-University/blob/main/Task.pdf)
 
 ## Program Requirements
 A system that manages the data of the students (Name, Gender, Age, and Academic Year)
